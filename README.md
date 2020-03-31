@@ -1,10 +1,10 @@
 # Simple Vue.js dashboard using JSXAPI WebSockets connection
 
 
-###Requirements
+##Requirements
 - [Node](https://nodejs.org/en/download/)
 
-###Installation
+##Installation
 
 ```
 git clone https://github.com/CiscoDevNet/sample-ws-jsxapi-vue
