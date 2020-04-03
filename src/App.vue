@@ -40,7 +40,7 @@
               <v-text-field
                 v-model="ip"
                 :rules="ipRules"
-                label="RoomKit IP"
+                label="Webex device IP"
                 required
               ></v-text-field>
             </v-col>

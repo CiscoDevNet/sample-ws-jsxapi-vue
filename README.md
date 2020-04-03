@@ -114,18 +114,18 @@ Vue.use(Vuetify)
 
 ### Edit configuration and enable using Websocket
 
-Using **RoomKit GUI** you need to make next changes
+Using **Webex device GUI** you need to make next changes
 Go to _Setup_ -> _Configurations_
 In left menu chose _HttpClient_ settings and change _AllowInsecureHTTPS_ from False on True
 
 ![](img/AllowInsecureHTTPS.png)
 
-Then navigate to your Room Kit gui page like https://10.10.20.30 and approve the room kit self-sign certificate in your browser
+Then navigate to your Webex device GUI page like https://10.10.20.30 and approve the room kit self-sign certificate in your browser
 ![](img/self-sign_certificate.png)
 
 WebSocket's library that we use will indicate an error when we using HTTP
 
-Also, Using RoomKit GUI you need to enable using Websocket
+Also, Using Webex device GUI you need to enable using Websocket
 
 _Go to Setup_ -> _Configurations_
 
@@ -183,7 +183,7 @@ We use standart [form sample](https://vuetifyjs.com/en/components/forms)
               <v-text-field
                 v-model="ip"
                 :rules="ipRules"
-                label="RoomKit IP"
+                label="Webex device IP"
                 required
               ></v-text-field>
             </v-col>
