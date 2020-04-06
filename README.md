@@ -1,5 +1,6 @@
 # Simple Vue.js dashboard using JSXAPI WebSockets connection
 
+You can also read additional information in my blog [https://blogs.cisco.com/developer/dashboard-webex-device-monitoring](https://blogs.cisco.com/developer/dashboard-webex-device-monitoring)
 
 ### Requirements
 - [Node](https://nodejs.org/en/download/)
@@ -19,6 +20,18 @@ npm run dev
 # build for production with minification
 npm run build
 
+```
+or using [yarn](https://classic.yarnpkg.com/en/docs/install/)
+
+```
+# yarn install is used to install all dependencies for a project
+yarn install
+
+# serve with hot reload at localhost:8080
+yarn run dev
+
+# build for production with minification
+yarn run build
 ```
 
 Using step-by-step instructions below you will create a simple Vue app. 
@@ -545,6 +558,14 @@ Run the App
 ```
 npm run dev
 ```
+
+**To aggregate and visualize information, you can use the following templates (some of them):**
+
+- https://github.com/creativetimofficial/vue-white-dashboard
+- https://github.com/creativetimofficial/material-dashboard-angular2
+- https://github.com/booleanhunter/ReactJS-AdminLTE
+
+![](img/dashboard_vue.png)
 
 **Other Useful links**
 
