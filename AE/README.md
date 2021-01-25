@@ -1,6 +1,6 @@
 # Dashboard for Webex Device Monitoring
 
-This Usa Case can help you to create a dashboard to monitor and manage Webex devices.
+This Use Case can help you to create a dashboard to monitor and manage Webex devices.
 
 The rapid growth in demand for remote work systems has resulted in new challenges of monitoring and troubleshooting devices used for this purpose. Recently, Webex events (calls, messages, etc) have jumped from 39 billion to 270 billion per day.
 
