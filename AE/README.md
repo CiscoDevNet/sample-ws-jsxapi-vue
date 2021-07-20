@@ -6,7 +6,7 @@ The rapid growth in demand for remote work systems has resulted in new challenge
 
 All well known video services are under heavy load. Cisco’s advantage in unified communication solutions is also based on high-quality functional devices equipped with high-quality cameras, sound systems, and microphones as well. Many employees started working remotely. Someone uses laptops for video conferencing; many employees make use of advanced devices, such as Webex devices: Series DX, MX, SX; Room/Roomkit/Codec and Webex Board’s.
 
-## Related Sandbox
+## Related DevNet Sandbox
 
 [RoomKit Sandbox](https://devnetsandbox.cisco.com/RM/Diagram/Index/a01c15fc-af6e-497a-92ef-138e06cad308?diagramType=Topology)
 
